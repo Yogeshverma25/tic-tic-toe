@@ -1,4 +1,4 @@
-# Tic-Tic-Toe
+# Tic-Tac-Toe
 
 Tic-Tac-Toe: The Ultimate Battle of Wits in a 3x3 Arena
 
